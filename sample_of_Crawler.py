@@ -1,4 +1,4 @@
-##  scripts learned form course,with  some modifiction
+##  scripts learned form youtube course,with  some modifiction
 import requests
 from bs4 import BeautifulSoup
 import csv
